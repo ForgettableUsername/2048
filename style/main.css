@@ -22,9 +22,6 @@ h1.title {
   display: block;
   float: left; }
 
-.rev{
-  transform: rotate(180deg); }
-
 @-webkit-keyframes move-up {
   0% {
     top: 25px;
@@ -79,7 +76,7 @@ h1.title {
     line-height: 13px;
     text-align: center;
     color: #eee4da;
-    transform: rotate(180deg); }
+    transform: rotate(360deg); }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
