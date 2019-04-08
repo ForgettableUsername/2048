@@ -37,7 +37,7 @@ GameManager.prototype.isGameTerminated = function () {
 GameManager.prototype.setup = function () {
   this.grid        = new Grid(this.size);
 
-  this.score       = 696969696969696969696969696969696969696969696969696969696969696969;
+  this.score       = "weener";
   this.over        = false;
   this.won         = false;
   this.keepPlaying = false;
