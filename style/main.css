@@ -79,7 +79,6 @@ h1.title {
     line-height: 13px;
     text-align: center;
     color: #eee4da;
-    transform: rotate(180deg); }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
     right: 30px;
